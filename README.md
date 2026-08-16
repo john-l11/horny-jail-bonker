@@ -1,13 +1,4 @@
+# John does not know how to control himself
+## So he is creating this project to control himself
 
-# hornyjail
-
-## Structure
-
-| Path                         | Purpose                                                                                                                             |
-|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| _build                       | The [CMake build tree](https://cmake.org/cmake/help/latest/manual/cmake.1.html#introduction-to-cmake-buildsystems), can be deleted. |
-| cmake                        | Generated [CMake](https://cmake.org/) files. May be deleted if user.cmake has not been added                                        |
-| .vscode                      | See [VSCode](https://code.visualstudio.com/docs/getstarted/settings)                                                                |
-| .vscode\settings.json        | Workspace specific settings                                                                                                         |
-| .vscode\hornyjail.mplab.json | The MPLAB project file, should not be deleted                                                                                       |
-| out                          | Final build artifacts                                                                                                               |
+He will program a microcontroller to control a motor and a speaker which is taking inputs from a serial interface that will send data to the microcontroller. If it detects that I were to send a dm on instagram to someone of the opposite gender then it will trigger the motor which I will have a fly swatter on it which will smack me, electrocute me, and the speaker will tell me that I am being sent to horny jail.
