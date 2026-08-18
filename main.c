@@ -1,4 +1,4 @@
-
+#include "headers/includes.h"
 
 /**
  * This is the entrypoint for the microcontroller
@@ -8,6 +8,11 @@
  * @brief Main function
  */
 int main(){
+    // Initialize all the peripherals on the microcontroller.
+    portInit();
+    pwmInit();
+    uartInit();
+
 
     // Add your code here and press Ctrl + Shift + B to build
     while(1) {

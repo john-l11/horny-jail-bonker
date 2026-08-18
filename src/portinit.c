@@ -3,7 +3,6 @@
  * PORTS
  * 
  */
- 
 void portInit(void)
 { 
     //Oscillator
